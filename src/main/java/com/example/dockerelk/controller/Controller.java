@@ -12,6 +12,6 @@ public class Controller {
     private final Logger logger = LoggerFactory.getLogger("LoggerController 의 로그");
     @GetMapping("/log")
     public void log() {
-        logger.error("로깅 발생!");
+        logger.error("testlogstash!");
     }
 }
