@@ -1,15 +1,15 @@
-### docker-elk
----
-개발 환경
+# Docker-elk
+
+# 개발 환경
 * JDK 8.1
 * SpringBoot 2.6.3
 * Gradle
 * logstash-logback-encoder(v.6.6)
 ---
-ELK 환경 
+# ELK 환경 
 ![시각화](https://user-images.githubusercontent.com/72914519/153231789-bbc0f2fa-04da-4606-9988-1344b2ed9029.PNG)
 ---
-AWS 인스턴스 정보
+# AWS 인스턴스 정보
 
 AWS t2.micro 에서는 구동이 불가능 t3.small에서는 서비스 원활
 
