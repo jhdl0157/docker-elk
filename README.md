@@ -25,4 +25,4 @@ AWS t2.micro 에서는 구동이 불가능 t3.small에서는 서비스 원활
 ![키바나 성공](https://user-images.githubusercontent.com/72914519/153233371-6f9cdf0d-1881-444e-965c-4d74dc100093.PNG)
 
 
-EC2에서 ELK설정은 [이 곳](https://thisisthat-it.tistory.com/) 에서 확인 해주세요
+EC2에서 ELK설정은 [이 곳](https://thisisthat-it.tistory.com/60) 에서 확인 해주세요
