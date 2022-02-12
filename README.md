@@ -5,6 +5,9 @@
 * SpringBoot 2.6.3
 * Gradle
 * logstash-logback-encoder(v.6.6)
+* logstash(v 7.15.2)
+* elasticsearch(v 7.15.2)
+* kibana(v 7.15.2)
 ---
 # ELK 환경 
 ![시각화](https://user-images.githubusercontent.com/72914519/153231789-bbc0f2fa-04da-4606-9988-1344b2ed9029.PNG)
